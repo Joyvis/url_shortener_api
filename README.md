@@ -1,24 +1,4 @@
-# README
+# URL SHORTENER API
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Missing some specific specs and some remaining rubocop issues.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
